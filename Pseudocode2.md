@@ -1,11 +1,11 @@
-##High Level Pseudocode
+## High Level Pseudocode
 
-###Objectives
+### Objectives
 - learn what pseudocode is
 - learn how to use it to break down problems into discrete operations
 
 
-###Context
+### Context
 High-level pseudocode is used to break a large general probelm into smaller chunks / operations / statments about what the computer should do next.
 
 ### Pseudocode example: Pour water into a glass
